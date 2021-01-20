@@ -1,3 +1,4 @@
+import React from 'react'
 import BoardSquare from './BoardSquare'
 
 export default function Board({board}) {
